@@ -1,12 +1,12 @@
 export const environment = {
   production: false,
   firebase: {
-    apiKey: "AIzaSyAp5mJSUR34udeYM1bi_zIMAyp94ztUvrQ",
-    authDomain: "angular-with-chatgpt.firebaseapp.com",
-    projectId: "angular-with-chatgpt",
-    storageBucket: "angular-with-chatgpt.appspot.com",
-    messagingSenderId: "169650940588",
-    appId: "1:169650940588:web:699aa73c9cecca9d9b4d09",
-    measurementId: "G-JRVGPK2XEP"
+    apiKey: "AIzaSyDPCeLJknLWiZLh9-hFNWtkyxPSgXoymlk",
+    authDomain: "fm-app4fun.firebaseapp.com",
+    projectId: "fm-app4fun",
+    storageBucket: "fm-app4fun.appspot.com",
+    messagingSenderId: "364777595644",
+    appId: "1:364777595644:web:82d5e5ec8ae196a3a02d79",
+    measurementId: "G-G6W0SXK3JK"
   }
 };
